@@ -1,0 +1,10 @@
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\bin\Debug\VisualizadorNutricional.exe.config
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\bin\Debug\VisualizadorNutricional.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\bin\Debug\VisualizadorNutricional.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.Form1.resources
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.Properties.Resources.resources
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.csproj.GenerateResource.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\VisualizadorNutricional\VisualizadorNutricional\obj\Debug\VisualizadorNutricional.pdb

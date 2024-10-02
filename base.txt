@@ -1,0 +1,4 @@
+5. Visualizador de Produtos Alimentícios
+Categorias: Frutas, Legumes, Produtos Industrializados.
+Melhorias: Adicionar informações nutricionais, preços, e comparar produtos lado a lado.
+Exemplo: O usuário seleciona uma marca e tipo de alimento e vê a embalagem, além de informações nutricionais.
