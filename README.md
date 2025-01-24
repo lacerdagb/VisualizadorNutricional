@@ -1,5 +1,5 @@
 
-Co![Nutricional](https://github.com/user-attachments/assets/66f352b9-3e18-4750-84fa-be0b2b1b4ecf)
+![Nutricional](https://github.com/user-attachments/assets/66f352b9-3e18-4750-84fa-be0b2b1b4ecf)
 
 # 🥗 Visualizador Nutricional em C#
 
